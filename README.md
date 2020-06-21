@@ -44,13 +44,13 @@ Research tasks:
 
 ### Public speaking
 
-* **2016) [The temporal bin packing problem: an application to workload management in data centres][ICTAI2016]**, International Conference on Tools in Artifical Intelligence, San Diego, CA.
+* **(2016) [The temporal bin packing problem: an application to workload management in data centres][ICTAI2016]**, International Conference on Tools in Artifical Intelligence, San Diego, CA.
 
-* **2014) [A methodology for online consolidation of tasks through more accurate resource estimations][UCC2014]**, International Conference on Utility and Cloud Computing, London, UK.
+* **(2014) [A methodology for online consolidation of tasks through more accurate resource estimations][UCC2014]**, International Conference on Utility and Cloud Computing, London, UK.
 
-* **2014) [Proactive workload consolidation for reducing energy cost over a given time horizon][CCGRID2014]**, International Symposium on Cluster, Cloud and Grid computing Chicago, IL.
+* **(2014) [Proactive workload consolidation for reducing energy cost over a given time horizon][CCGRID2014]**, International Symposium on Cluster, Cloud and Grid computing Chicago, IL.
 
-* **2013) [A study of electricity price features on distributed internet data centers][GECON2013]**, International Conference on Grid Economics and Business Models, Zaragoza, Spain.
+* **(2013) [A study of electricity price features on distributed internet data centers][GECON2013]**, International Conference on Grid Economics and Business Models, Zaragoza, Spain.
 
 ## Public Engagement
 
