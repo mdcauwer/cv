@@ -99,7 +99,7 @@ Research tasks:
 [teaching-mpt]: http://multimedia.ucc.ie/Public/training/
 
 [EPE-ICPC]: https://acm.ucc.ie/
-[EPE-CSSEMSERIES]: www.cs.ucc.ie/seminars/
+[EPE-CSSEMSERIES]: http://www.cs.ucc.ie/seminars/
 [EPE-AIFL]: https://www.kobakant.at/false-lies/
 
 [ICTAI2016]: https://dblp.org/db/conf/ictai/ictai2016
