@@ -1,6 +1,6 @@
 # Milan De Cauwer
 
-I currently am a postdoctoral researcher at the School of Computer Science and Information Technology,  University College Cork, Ireland. I am a computer scientist with a background in  operations research, combinatorial optimisation and currently curious about applied machine learning. 
+I currently am a postdoctoral researcher at the School of Computer Science and Information Technology,  University College Cork, Ireland. I am a computer scientist with a background in  operations research, combinatorial optimisation and currently curious about applied machine learning and data sciences.
 
 I find great motivation in bringing together technologies from the realm of artificial intelligence to tackle automated decision-making problems in sustainability related challenges.
 
@@ -8,35 +8,39 @@ I find great motivation in bringing together technologies from the realm of arti
 
 ## Professional experience
 
-### Postdoctoral Researcher, University College Cork (Feb. 2019 - now)
+### Postdoctoral Researcher, University College Cork (2019-now)
 
 Research tasks: 
 * Investigating the integration of signal processing, machine learning and optimisation techniques to enhance predictive maintenance.
 * Technologies: Python, Jupyter, Pandas, Numpy, Scikit-learn.
 
-### PhD Candidate, University College Cork (Oct. 2012 - Oct 2018)
+### PhD Candidate, University College Cork (2012-18)
 * Combinatorial Optimisation for Sustainable Cloud Computing ([Manuscript][thesis])
 * Supervisors: [Prof Barry O'Sullivan][bos], [Dr Deepak Metha][dm]
 * Funding: [Science Foundation Ireland][SFI]
 * Short abstract:
 
-> The era of data-driven decision-making often relies on data centres as a backbone to store, structure and retrieve information for use in cloud computing contexts. Because these ubiquitous facilities have a large economic and ecological footprint, designing methods to exploit them efficiently is a central challenge in maintaining such structures sustainable. My dissertation contributes to the effort of formally modeling parts of such systems for optimisation purposes. More specifically, the focus is put on modeling and optimising combinatorial problems using methods and techniques from the realm of mathematical modeling and operations research.
+> The era of data-driven decision-making often relies on data centres as a backbone to store, structure and retrieve information for use in cloud computing contexts. Because these ubiquitous facilities have a large economic and ecological footprint, designing methods to exploit them efficiently is a central challenge in maintaining such structures sustainable. My dissertation contributes to the effort of formally modeling parts of such systems for optimisation purposes. More specifically, the focus is put on modeling and optimising consolidation problems techniques from the realm of mathematical modeling and operations research.
 
 ## Education
 
-### [Masters in Optimisation and Operations Research][ORO-Nantes], Université de Nantes, France (Sept 2010, Sept 2012)
+### [Masters in Optimisation and Operations Research][ORO-Nantes], Université de Nantes, France (2010-12)
 
-### Bachelors in Computer Science, Université de Nantes, France (Sept 2007, Sept 2010)
+### Bachelors in Computer Science, Université de Nantes, France (2007-10)
 
-### Bachelors in Economics of Sustainable Development, Université de Nantes, France (Sept 2003, Sept 2007)
+### Bachelors in Economic Theory for Sustainable Development, Université de Nantes, France (Sept 2003-07)
 
 ### Baccalauréat, Lycée François Truffaut, France (2003)
 
 ## Tools & Methodologies
 
+* **Software development**: Python, C++, Java, R, C, PHP, SQL, Git
+* **Mathematical Modeling**: CPLEX, Gecode, Minizinc, Google OR tools, GLPK, NetworkX
+* **Data analysis & representation**: R, Matplotlib, Scikit-learn, Pandas, Seaborn
+
 ## Teaching
 
-* **(2020) [UCC CS3306 - Skills and technologies for the workplace][teaching-CS3306]**:  Module content will vary from year to year, depending on what the Department considers to be useful for contemporary industry.
+* **(2020) [UCC CS3306 - Skills and technologies for the workplace][teaching-CS3306]**:  Module content varies from year to year, depending on what the Department considers to be useful for contemporary industry.
 
 * **(2019) [UCC CS1203 - Programming for Digital Humanities][teaching-CS1203]**: Program design and development with Python for Digital Humanities.
 
@@ -60,7 +64,7 @@ Research tasks:
 
 * **(2019-20) [AI and its false lies][EPE-AIFL]**: Collaborating with Berlin-based artist Mika Satomi on a project articulated around a reflection on the impact of AI on our lives and workplaces. Our collaboration saw the implementation of a physical neural network embedded in a garment able to classify hand gestures.
 
-* **(2013-20) [AI and its false lies][EPE-AIFL]**: in public events such as the university open day, local science festival, the AI for Sustainability workshop.
+* **(2013-20) Volunteering**: in public events such as the university open day, local science festival, the AI for Sustainability workshop.
 
 ## Online resources
 
