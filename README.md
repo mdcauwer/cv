@@ -38,7 +38,7 @@ Research tasks:
 * **Mathematical Modeling**: CPLEX, Gecode, Minizinc, Google OR tools, GLPK, NetworkX
 * **Data analysis & representation**: R, Matplotlib, Scikit-learn, Pandas, Seaborn
 
-## Teaching
+## Lecturing
 
 * **(2020) [UCC CS3306 - Skills and technologies for the workplace][teaching-CS3306]**:  Module content varies from year to year, depending on what the Department considers to be useful for contemporary industry.
 
