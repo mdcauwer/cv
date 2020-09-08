@@ -25,10 +25,13 @@ Research tasks:
 ## Education
 
 ### [Masters in Optimisation and Operations Research][ORO-Nantes], Université de Nantes, France (2010-12)
+* Theory and algorithms of OR: discrete, numerical, multi objective optimization, graph theory, complexity theory
+* Application domains such as transports, logistics, planning, scheduling, bioinformatics
 
 ### Bachelors in Computer Science, Université de Nantes, France (2007-10)
+* Foundations of computer science and computer engineering.
 
-### Bachelors in Economic Theory for Sustainable Development, Université de Nantes, France (Sept 2003-07)
+### Bachelors in Economic Theory for Sustainable Development, Université de Nantes, France (2003-07)
 
 ### Baccalauréat, Lycée François Truffaut, France (2003)
 
@@ -46,7 +49,7 @@ Research tasks:
 
 * **(2013-18) [UCC Munster Programming Training][teaching-mpt]**: Introduced elements of algorithms and data structures to secondary level students of the Munster region.
 
-### Public speaking
+## Public speaking
 
 * **(2016) [The temporal bin packing problem: an application to workload management in data centres][ICTAI2016]**, International Conference on Tools in Artifical Intelligence, San Diego, CA.
 
