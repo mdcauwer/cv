@@ -25,11 +25,11 @@ Research tasks:
 ## Education
 
 * **(2010-12) [Masters in Optimisation and Operations Research][ORO-Nantes]**, Université de Nantes, France
-* Theory and algorithms of OR: discrete, numerical, multi objective optimization, graph theory, complexity theory
-* Application domains such as transports, logistics, planning, scheduling, bioinformatics
+    * Theory and algorithms of OR: discrete, numerical, multi objective optimization, graph theory, complexity theory
+    * Application domains such as transports, logistics, planning, scheduling, bioinformatics
 
 * **(2007-10) Bachelors in Computer Science**, Université de Nantes, France
-* Foundations of computer science and computer engineering.
+    * Foundations of computer science and computer engineering.
 
 * **(2003-07) Bachelors in Economic Theory for Sustainable Development**, Université de Nantes, France
 
